@@ -1,0 +1,27 @@
+body{
+   
+    
+    background-image: linear-gradient(rgb(2, 2, 158) , rgb(248, 9, 156)
+    );
+    margin: 100px ;
+}
+h1{
+   
+        font-size: 50px;
+        font-weight: bold;
+    
+    text-align: center;
+    color: rgb(213, 213, 213);
+}
+.f-w-700{
+    font-weight: 1000;
+}
+.bttn{
+    color: rgb(34, 0, 31);
+    background-image: linear-gradient( rgb(233, 129, 203) , rgb(78, 63, 240)
+    );
+    
+}
+.head{
+    background-color: black;
+}
